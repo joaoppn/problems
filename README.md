@@ -10,3 +10,4 @@ Esse repositório é para guardar alguns problemas de programação que resolvi.
 - Weaklinks - 12783
 - Rare Order - 200
 - Running MoM 
+- Traffic Flow - 10842 (Roda todos os casos testes do Udebug, mas não é aceito no OnlineJudge)
