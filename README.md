@@ -15,3 +15,5 @@ Esse repositório é para guardar alguns problemas de programação que resolvi.
 - Farm Robot - 2349
 - Língua do P - 2453
 - Sorting Santa's List of Children - 2479
+- Consecutivos - 2415
+- Sudoku - 1383
