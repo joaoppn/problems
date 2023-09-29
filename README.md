@@ -21,3 +21,7 @@ Esse repositório é para guardar alguns problemas de programação que resolvi.
 - Wrrrong! - 2868
 - Input and Output 6 - 2762
 - Distributing Pequis - 3077
+- Engine Failure - 2167
+- Two bills - 2140
+- Enigma - 2880
+- Fibonacci - 1176
