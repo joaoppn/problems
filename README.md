@@ -25,3 +25,13 @@ Esse repositório é para guardar alguns problemas de programação que resolvi.
 - Two bills - 2140
 - Enigma - 2880
 - Fibonacci - 1176
+- Stepladder - 2782
+- Number Frequence - 1171
+- Intercepting Information - 3432
+- Closing Tabs - 2061
+- Guerra por Território - 2420
+- Walking in time - 2235
+- Even and Odd - 1259
+- Age Doubt - 3141
+- Alice in Noughts - 3454
+- Throwing Cards Away - 1110
