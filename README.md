@@ -11,3 +11,7 @@ Esse repositório é para guardar alguns problemas de programação que resolvi.
 - Rare Order - 200
 - Running MoM 
 - Traffic Flow - 10842 (Roda todos os casos testes do Udebug, mas não é aceito no OnlineJudge)
+- Contest - 1514
+- Farm Robot - 2349
+- Língua do P - 2453
+- Sorting Santa's List of Children - 2479
