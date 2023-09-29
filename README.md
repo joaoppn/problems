@@ -17,3 +17,7 @@ Esse repositório é para guardar alguns problemas de programação que resolvi.
 - Sorting Santa's List of Children - 2479
 - Consecutivos - 2415
 - Sudoku - 1383
+- The Fearful Evil-Son -2218
+- Wrrrong! - 2868
+- Input and Output 6 - 2762
+- Distributing Pequis - 3077
