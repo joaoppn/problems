@@ -29,9 +29,12 @@ Esse repositório é para guardar alguns problemas de programação que resolvi.
 - Number Frequence - 1171
 - Intercepting Information - 3432
 - Closing Tabs - 2061
-- Guerra por Território - 2420
 - Walking in time - 2235
 - Even and Odd - 1259
 - Age Doubt - 3141
 - Alice in Noughts - 3454
 - Throwing Cards Away - 1110
+- Copa do Mundo - 2376
+- Image - 1516
+- Hidden Message - 1272
+- Buffon - 2963
