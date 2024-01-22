@@ -43,3 +43,5 @@ Esse repositório é para guardar alguns problemas de programação que resolvi.
 - Page Hopping - 821
 - Relacional Operator - 11172
 - Event Planning - 11559
+- Minesweeper - 10189
+- Ananagrams - 156
